@@ -1,0 +1,107 @@
+/* Custom gradient styling from cyan to dusty purple */
+
+:root {
+  --gradient-start: #00bcd4; /* cyan */
+  --gradient-end: #9575cd; /* dusty purple */
+}
+
+/* Gradient header styling */
+.md-header {
+  background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%) !important;
+}
+
+/* Hero image container styling */
+.hero-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.hero-container {
+  width: 100%;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.hero-container img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Gradient accent for navigation tabs */
+.md-tabs {
+  background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%) !important;
+}
+
+/* Enhanced link colors with gradient theme */
+[data-md-color-scheme="default"] .md-typeset a {
+  color: #00838f;
+}
+
+[data-md-color-scheme="default"] .md-typeset a:hover {
+  color: #7e57c2;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a {
+  color: #4dd0e1;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+  color: #b39ddb;
+}
+
+/* Gradient button styling */
+.md-button--primary {
+  background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%) !important;
+  border: none !important;
+}
+
+/* Responsive hero image for mobile */
+@media screen and (max-width: 76.1875em) {
+  .hero-image {
+    max-height: 250px;
+  }
+}
+
+/* Accessibility enhancements */
+.hero-container:focus-within {
+  outline: 3px solid var(--gradient-start);
+  outline-offset: 2px;
+}
+
+/* Smooth transitions for theme switching */
+* {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Card-like styling for content sections */
+.md-typeset h2 {
+  border-left: 4px solid;
+  border-image: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%) 1;
+  padding-left: 1rem;
+}
+
+/* Footer gradient accent */
+.md-footer {
+  background: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%) !important;
+}
+
+/* Search bar styling */
+[data-md-color-scheme="default"] .md-search__input {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+[data-md-color-scheme="slate"] .md-search__input {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Navigation item hover effect */
+.md-nav__link:hover {
+  background: linear-gradient(90deg, rgba(0, 188, 212, 0.1) 0%, rgba(149, 117, 205, 0.1) 100%);
+}
