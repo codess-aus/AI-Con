@@ -1,7 +1,7 @@
 # Trust
 
 <div class="hero-container">
-  <img src="images/trust.png" alt="Trust in AI Systems" class="hero-image">
+  <img src="images/Trust.png" alt="Trust in AI Systems" class="hero-image">
 </div>
 
 ## Building Confidence in AI Systems

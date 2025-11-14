@@ -1,7 +1,7 @@
 # Welcome to AI-Con
 
 <div class="hero-container">
-  <img src="images/home.png" alt="AI-Con Hero Image" class="hero-image">
+  <img src="images/TitlePage.png" alt="AI-Con Hero Image" class="hero-image">
 </div>
 
 ## Exploring AI, Responsibility, and Innovation

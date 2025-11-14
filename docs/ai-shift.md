@@ -1,7 +1,7 @@
 # The AI Shift
 
 <div class="hero-container">
-  <img src="images/ai-shift.png" alt="The AI Shift" class="hero-image">
+  <img src="images/AI Shift.png" alt="The AI Shift" class="hero-image">
 </div>
 
 ## Understanding the Transformation
