@@ -6,7 +6,9 @@
 
 ## Get in Touch
 
-Thank you for exploring AI-Con! We're excited to connect with you and continue the conversation about artificial intelligence, its applications, and its impact on our world.
+Thank you for exploring AI at AI-Con! We're excited to connect with you and continue the conversation about artificial intelligence, its applications, and its impact on our world.  
+
+[Connect with Michelle](https://aka.ms/michellesandford)  
 
 ## Connect With Us
 
