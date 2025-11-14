@@ -1,7 +1,7 @@
 # Responsible AI
 
 <div class="hero-container">
-  <img src="images/responsible-ai-new.png" alt="Responsible AI" class="hero-image">
+  <img src="/AI-Con/images/responsible-ai-new.png" alt="Responsible AI" class="hero-image">
 </div>
 
 ## Building AI Systems We Can Trust

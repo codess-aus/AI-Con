@@ -1,7 +1,7 @@
 # Mitigation
 
 <div class="hero-container">
-  <img src="images/mitigation-new.png" alt="Risk Mitigation Strategies" class="hero-image">
+  <img src="/AI-Con/images/mitigation-new.png" alt="Risk Mitigation Strategies" class="hero-image">
 </div>
 
 ## Risk Mitigation Strategies

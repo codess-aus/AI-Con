@@ -1,7 +1,7 @@
 # Risks
 
 <div class="hero-container">
-  <img src="images/risks-new.png" alt="Understanding AI Risks" class="hero-image">
+  <img src="/AI-Con/images/risks-new.png" alt="Understanding AI Risks" class="hero-image">
 </div>
 
 ## Understanding AI Risks

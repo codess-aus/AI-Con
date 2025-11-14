@@ -1,7 +1,7 @@
 # Microsoft Copilot
 
 <div class="hero-container">
-  <img src="images/microsoft-copilot-new.png" alt="Microsoft Copilot" class="hero-image">
+  <img src="/AI-Con/images/microsoft-copilot-new.png" alt="Microsoft Copilot" class="hero-image">
 </div>
 
 ## Your AI Assistant Across Microsoft 365
