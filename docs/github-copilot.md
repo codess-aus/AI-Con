@@ -1,7 +1,7 @@
 # GitHub Copilot
 
 <div class="hero-container">
-  <img src="images/GitHub Copilot.png" alt="GitHub Copilot" class="hero-image">
+  <img src="images/github-copilot-new.png" alt="GitHub Copilot" class="hero-image">
 </div>
 
 ## Your AI Pair Programmer

@@ -1,7 +1,7 @@
 # Prompt Engineering
 
 <div class="hero-container">
-  <img src="images/PromptEngineering.png" alt="Prompt Engineering" class="hero-image">
+  <img src="images/prompt-engineering-new.png" alt="Prompt Engineering" class="hero-image">
 </div>
 
 ## The Art and Science of AI Communication
