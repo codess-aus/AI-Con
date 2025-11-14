@@ -234,6 +234,9 @@ While AI offers tremendous benefits, it also introduces significant risks that m
 4. **Incident Preparedness**: Plan for when things go wrong
 5. **Learning Culture**: Treat failures as learning opportunities
 
+## Resources and Learning Paths  
+[Risk and safety evaluators](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/evaluation-evaluators/risk-safety-evaluators)  
+
 ---
 
 **Next**: Discover [Mitigation](mitigation.md) strategies to address and manage these risks effectively.

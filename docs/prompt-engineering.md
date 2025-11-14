@@ -420,6 +420,10 @@ Create a [language] [framework] endpoint that:
     prompting techniques evolve. Stay curious, experiment often, and 
     learn from both successes and failures.
 
+## Resources and Learning Paths  
+[Creating effective prompts](https://learn.microsoft.com/en-us/training/modules/create-prompts-for-generative-ai-training-tools/)  
+[Prompt Engineering Guidance](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering)  
+
 ---
 
 **Next**: Explore [Microsoft Copilot](microsoft-copilot.md) and see prompt engineering in action within the Microsoft ecosystem.

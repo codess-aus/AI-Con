@@ -494,6 +494,9 @@ Track:
 🚀 **Stay critical**: Review and improve all suggestions  
 🚀 **Share knowledge**: Help teammates succeed  
 
+## Resources and Learning Paths  
+[GitHub Copilot Fundamentals Learning Path](https://learn.microsoft.com/en-us/training/paths/copilot/)  
+[GitHub Foundations](https://learn.microsoft.com/en-us/training/github/)  
 ---
 
 **Next**: Visit our [Contact](contact.md) page to connect with us and continue the conversation.

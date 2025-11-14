@@ -405,6 +405,11 @@ Consider:
 | **Security** | Enterprise-grade | Various tiers |
 | **Use Case** | Productivity workflows | General purpose |
 
+## Resources and Learning Paths  
+
+[Copilot Prompt Gallery](https://copilot.cloud.microsoft/prompts)  
+[Copilot Learning Hub](https://learn.microsoft.com/en-us/copilot/overview)  
+
 ---
 
 **Next**: Explore [GitHub Copilot](github-copilot.md) for AI-powered code development.

@@ -126,6 +126,12 @@ Everyone involved with AI has a responsibility:
 !!! tip "Start Small, Think Big"
     You don't need to solve all AI ethics problems at once. Start by applying responsible AI principles to your current projects and gradually expand your practices.
 
+## Resources and Learning Paths  
+
+[What is Responsible AI?](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai)  
+[Responsible AI Learning Path](https://learn.microsoft.com/en-us/training/modules/responsible-ai/)  
+[Embrace responsible AI principles and practices](https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/)  
+[Microsoft Responsible AI Resources](https://www.microsoft.com/en-us/ai/responsible-ai)  
 ---
 
 **Next**: Learn about building [Trust](trust.md) in AI systems and why it's crucial for adoption and success.

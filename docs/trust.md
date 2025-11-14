@@ -218,8 +218,10 @@ When trust is challenged:
 5. Stay informed about AI capabilities
 
 !!! success "Trust as Competitive Advantage"
-    Organizations that successfully build trust in their AI systems gain a significant competitive advantage. Trusted AI drives adoption, innovation, and long-term success.
+    Organizations that successfully build trust in their AI systems gain a significant competitive advantage. Trusted AI drives adoption, innovation, and long-term success.  
 
+## Resources and Learning Paths  
+[Trustworthy AI](https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview)  
 ---
 
 **Next**: Explore potential [Risks](risks.md) in AI systems and understand what can go wrong.
