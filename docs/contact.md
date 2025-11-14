@@ -1,7 +1,7 @@
 # Contact
 
 <div class="hero-container">
-  <img src="images/contact.png" alt="Get in Touch" class="hero-image">
+  <img src="/AI-Con/images/contact.png" alt="Get in Touch" class="hero-image">
 </div>
 
 ## Get in Touch
